@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Asad from Bangladesh<br><br>- 🔭 I’m studding at Bangabandhu Sheikh Mujibur Rahman Science and Technology University<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I like to sleep</p>
+<p align="left">I'm Asad from Bangladesh<br><br>- 🔭 I’m studding at Gopalganj Science and Technology University<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I like to sleep</p>
 
 ###
 
